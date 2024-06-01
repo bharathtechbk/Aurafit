@@ -1,0 +1,26 @@
+body{
+    background-color: #212529;
+    color: white;
+}
+.blog-banner{
+    /* padding: 0%; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blog-banner img{
+    width: 100%;
+    padding: 25px;
+    height: auto;
+    /* position: absolute; */
+}
+.blog-banner h1{
+    position:relative;
+}
+h3{
+    margin-top: 50px;
+}
+p{
+    margin-top: 20px;
+}
